@@ -65,7 +65,7 @@ echo "<script>window.location.href='index.php'</script>";
          <div class="inner_breadcrumb  ml-4">
             <ul class="short_ls">
                <li>
-                  <a href="index.php">Home</a>
+                  <a href="index.html">Home</a>
                   <span>/ /</span>
                </li>
                <li>Enquiry</li>

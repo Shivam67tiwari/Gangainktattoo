@@ -26,7 +26,7 @@ while ($row=mysqli_fetch_array($ret)) {
             <div class="container-fluid">
                <div class="hedder-up row">
                   <div class="col-lg-3 col-md-3 logo-head">
-                     <h1><a class="navbar-brand" href="index.php">
+                     <h1><a class="navbar-brand" href="index.html">
                    </span></a></h1>
                   </div>
                </div>
@@ -38,7 +38,7 @@ while ($row=mysqli_fetch_array($ret)) {
                <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
                   <ul class="navbar-nav ">
                      <li class="nav-item active">
-                        <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
                      </li>
                      <li class="nav-item">
                         <a href="about.php" class="nav-link">About</a>
